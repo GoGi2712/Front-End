@@ -21,6 +21,10 @@ const MenuItems = [
         title: 'Green House',
         url: '/greenhouse'
     },
+    {
+        title: 'Profile',
+        url: '/profile'
+    },
 ];
 class Navbar extends Component {
     state = { clicked: false }
