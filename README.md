@@ -45,7 +45,7 @@ Optional examples of using images with links for your tech stack, make sure to c
 
 1️⃣ [Product Canvas](🚫add link to product canvas here)
 
-1️⃣ [UX Design files](🚫add link to design files here) - 🚫 delete if not applicable
+1️⃣ [UX Design files](https://docs.google.com/document/d/1iJhZhHuV0R2_6aDtm5aAvLEg0ZoLBOCIwWzESJE_7BI/edit) 
 
 🚫 Replace lorem ipsum with a description of your project
 
