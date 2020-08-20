@@ -1,0 +1,73 @@
+TABS
+
+1. USER PAGE/DAILY PICTURE PAGE (free build from users)
+
+2. PRODUCT PAGE (SPONSOR PAGE) (input from supplier, developer to manage)
+
+4. CONTEST PAGE (entry from user, need to be managed and sorted by the developer)
+
+5. GREENHOUSE PAGE (REFERENCE PAGE)(userview developer managed and update)
+
+6. CONSULTING PAGE/CREATE LEARN PAGE
+
+an upwork like page where users can post problems looking for help
+
+
+1. USER PAGE/DAILY PICTURE PAGE (free build from users)
+Contains user basic information
+1. Their profile picture
+2. Plant Pictures
+3. A short Bio them
+
+this is the page where users can post their plant pictures and details, share their planting tips and other stuff that will be helpfull to other users
+
+2. PRODUCT PAGE (SPONSOR PAGE) (input from supplier, developer to manage)
+Featured growing product
+example: 
+soil, seeds, and other planting materials 
+(this page will help us get sponsorship from suppliers if needed)
+
+3. GROWER RANKING PAGE (user input, developer managed)
+featured grower of the week/month
+
+
+
+Criteria:
+1. Number of plants grown with or without pictures
+2. Completion won
+3. Consulting jobs completed
+4. articles written
+5. user added to the community
+
+
+4. CONTEST PAGE (entry from user, need to be managed and sorted by the developer)
+
+1. best plant grown (shouldnt be coz normally we cant determine if they have grown the plant in a month?)
+
+2. Consulting job completed (OK)
+
+3. Most articles written (OK)
+
+4. Most added users (OK)
+
+the prize for this contest page will be badges to up their ranking that will benefit them get more consultation jobs
+
+
+1. guidelines and instruction
+2. how to join
+3. prizesbadges to up their rank
+
+
+5. GREENHOUSE PAGE (REFERENCE PAGE)(userview developer managed and update)
+
+This is a page for developer to dump all information about greenhouse
+
+6. CONSULTING PAGE/CREATE LEARN PAGE
+
+an upwork like page where users can post problens looking for help
+
+This page has to be a Q&A page and reference from other growers need information in:
+
+1. Learning growing a specific type of plant
+2. Maintenance
+3. Link for consultation (inquiry section for user)
