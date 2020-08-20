@@ -6,7 +6,7 @@ GrowersBrains is an app designed to solve the problems that growers are globally
 
 ### How To Contribute
 
-#### Ping Natalie Pina (natalie_p#0962) on discord to be addaded as a contributor
+#### Ping Natalie Pina (natalie_p#0962) Robert Pedersen (BobTheDev#0222) on discord to be addaded as a member
 
 - (If you have not already) CLONE, not fork, the repo at https://github.com/Growers-Brains-App/Front-End
 - In your terminal window, type in the following "git pull origin Production"
