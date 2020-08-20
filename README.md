@@ -8,7 +8,7 @@ GrowersBrains is an app designed to solve the problems that growers are globally
 
 #### Ping Natalie Pina (natalie_p#0962) on discord to be addaded as a contributor
 
-- (If you have not already) CLONE, not fork, the repo at https://github.com/nataliepina/GrowersBrains
+- (If you have not already) CLONE, not fork, the repo at https://github.com/Growers-Brains-App/Front-End
 - In your terminal window, type in the following "git pull origin Production"
 - CD into your React app and perform "npm i" to install the dependencies needed. You may need to do this every time you perform a "git pull" in the future as well.
 - Then type in, "git checkout -b <IssueDescription_IssueNumber_githubUserName>". Feel free to prefix your branches with feature or bugfix
@@ -16,26 +16,20 @@ GrowersBrains is an app designed to solve the problems that growers are globally
 - Commit your changes locally git add . (This adds all changes made)
 - Add your commit message that sums up the work you have done git commit -m "changes you made here" (Ex: git commit -m "added nav bar style and tests")
 - Push up your changes git push usually on the first commit you'll need to run git push -u origin <YOUR-BRANCH-NAME>
-- Create a pull request of your changes for review. Visit Github (https://github.com/nataliepina/GrowersBrains) and you will now see a green "Compare & pull request" button on the repo. Check that your changes are accurate, that you are pushing to the correct branch, and include a meaningful description of your changes.
+- Create a pull request of your changes for review. Visit Github (https://github.com/Growers-Brains-App/Front-End) and you will now see a green "Compare & pull request" button on the repo. Check that your changes are accurate, that you are pushing to the correct branch, and include a meaningful description of your changes.
 
 ### How To Run
 
-- Clone or fork the repository
-- Install dependencies with NPM `npm i` or with Yarn `Yarn install`
-- Create a file named `.env.local` at the root of the project, and add this line to it: `PUBLIC_URL=/`
-- Start the project locally `npm start` or `yarn start`
+- Clone the repository
+- Install dependencies with Yarn `Yarn install`
+- Create a file named `.env.local` at the root of the project, and add this line to it: `PUBLIC_URL = /`
+- Start the project locally with `yarn start`
 
-🚫 Note: All lines that start with 🚫 are instructions and should be deleted before this is posted to your portfolio. This is intended to be a guideline, feel free to add your own flare to it.
+# Title of project goes here
 
-🚫 The numbers 1️⃣ through 5️⃣ next to each item represent the week that part of the docs needs to be comepleted by. Make sure to delete the numbers by the end of Labs.
+You can find the deployed project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
 
-🚫 Each student has a required minimum number of meaningful PRs each week per the rubric. Contributing to docs does NOT count as a PR to meet your weekly requirements.
-
-# 1️⃣ Title of project goes here
-
-1️⃣ You can find the deployed project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
-
-🚫 4️⃣ Optional examples of using images with links for your tech stack, make sure to change these to fit your project
+Optional examples of using images with links for your tech stack, make sure to change these to fit your project
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![React](https://img.shields.io/badge/react-v16.7.0--alpha.2-blue.svg)
@@ -47,7 +41,7 @@ GrowersBrains is an app designed to solve the problems that growers are globally
 
 ## Project Overview
 
-1️⃣ [Trello Board](🚫add link to trello board here)
+1️⃣ [Project Board](https://github.com/Growers-Brains-App/Front-End/projects/1)
 
 1️⃣ [Product Canvas](🚫add link to product canvas here)
 
